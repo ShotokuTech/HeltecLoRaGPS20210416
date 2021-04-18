@@ -1,1 +1,1 @@
-# HeltecLoRaGPS20210416
+This mashup of Arduino IDE example sketches for the Heltec WiFi LoRa 32 board. This combines OLED_LoRa_Sender from the Heltec library with DeviceExample from the TinyGPS++ library. The Heltec WiFi LoRa 32 board is connected a GPS breakout, to transmit latitude, longitude and altitude along with time and a packet count. The receiver is simply the OLED_LoRa_Receiver example sketch.
